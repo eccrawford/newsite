@@ -5,4 +5,4 @@ date:   2018-09-29 14:48:15 -0400
 categories: jekyll update
 ---
 Hooray!
-![test img](img/pic.png)
+![test img](/img/pic.png)
