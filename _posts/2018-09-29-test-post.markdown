@@ -4,5 +4,5 @@ title:  "Yet another test post"
 date:   2018-09-29 14:48:15 -0400
 categories: jekyll update
 ---
-Hooray!2
-![test img](https://s3.amazonaws.com/spoonflower/public/design_thumbnails/0467/0824/rConfetti_Glitter_Blush_Pink___shop_preview.png)
+Hooray!3
+![test img](/img/pic.png)
